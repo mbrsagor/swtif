@@ -14,4 +14,4 @@ names.removeFirst(); // Remove first item
 print(names);
 names.removeLast(); // Remove last item
 print(names);
-
+print(names.count) // List of elements in array
