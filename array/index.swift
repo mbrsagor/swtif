@@ -1,4 +1,3 @@
-
 var names = ["Shimul", "Sagor", "Lokman", "Faruk"]
 print(names); // list of all names
 print(names[0]); // position of names
