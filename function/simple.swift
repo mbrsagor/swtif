@@ -21,3 +21,12 @@ func parent(){
     child();
 }
 parent();
+
+
+// Find average number
+func averageNum(){
+    let num = 5, num2 = 9;
+    let result = num + num2;
+    print(result / 2);
+}
+averageNum()
